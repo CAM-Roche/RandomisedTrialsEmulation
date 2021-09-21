@@ -1,6 +1,6 @@
 Package: RandomisedTrialsEmulationChunks
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.1.3
+Title: Target trial emulation modeling
+Version: 0.0.1.4
 Authors@R: 
     person(given = "First",
            family = "Last",
