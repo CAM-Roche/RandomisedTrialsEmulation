@@ -2,11 +2,16 @@ Package: RandomisedTrialsEmulationChunks
 Title: Target trial emulation modeling
 Version: 0.0.1.4
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    c(person(given = "Roonak",
+           family = "R",
            role = c("aut", "cre"),
            email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+    person(given = "Isaac",
+           family = "Gravestock",
+           role = c("aut"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")))
 Description: Analyse target trial emulation data from real world data. Expands data and fits pooled logistic regression models.
 License: GPL-3
 Encoding: UTF-8
